@@ -19,8 +19,8 @@ Example usage:
 ```sh
 python splittask.py cas_results nsplit -w workdir -j job_prefix
 ```
-Running this script generates <workdir> directory, and makes <nsplit> number of txt files named <job_prefix>_<i>.txt, <i> ranging from 0 to <nsplit>-1.
-Each txt files have roughly equal number of data paths to run
+Running this script generates <workdir> directory, and makes <nsplit> number of txt files named `<job_prefix>_<i>.txt`, <i> ranging from 0 to <nsplit>-1.
+Each txt files have roughly equal number of data paths to run.
 
 #### runandrun.py
 Example usage:
