@@ -1,0 +1,10 @@
+__pycache__/
+cas_results/
+quest-l/
+quest-mc/
+*.pkl
+*.txt
+*.log
+*.out
+*.sh
+*.molden
